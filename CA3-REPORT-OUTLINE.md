@@ -1,6 +1,5 @@
 # CA-3 report outline
 
-Replace placeholders with your own observations and real evidence.
 
 1. **Title page:** AttendEase, course, team names/PRNs, division, faculty, date.
 2. **Introduction:** Attendance problem and objectives.
@@ -15,4 +14,3 @@ Replace placeholders with your own observations and real evidence.
 11. **Conclusion:** Lessons in debugging, testing, version control, and review.
 12. **References:** Repository, official documentation, and sources actually used.
 
-Do not invent external issues, screenshots, test results, commits, or PRs.
